@@ -1,0 +1,10 @@
+addict
+datasets==2.18.0
+modelscope
+numpy
+packaging
+Pillow
+scikit-learn
+simplejson
+torch
+torchaudio
